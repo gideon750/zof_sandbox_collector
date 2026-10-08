@@ -11,3 +11,5 @@ app.post("/results", (req, res) => {
 });
 app.get("/healthz", (_req, res) => res.json({ status: "ok" }));
 app.listen(process.env.PORT || 3000);
+
+// First Zof-gated change on this repository.
