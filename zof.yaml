@@ -1,0 +1,7 @@
+# Facts about this repository for the Zof System Graph. Read from the default branch only.
+version: 1
+services:
+  collector-service:
+    path: .
+    tier: 1
+    owner: team-platform
